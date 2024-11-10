@@ -1,5 +1,6 @@
 # USA-Millitary-Spending  
-**Tableau Visualizations** ![Uploading USA Military.jpeg…]()
+**Tableau Visualizations** ![USA Military](https://github.com/user-attachments/assets/a9f83456-9595-42ed-a9d7-072cd3fbb75d)
+
 
 
 U.S. Military Spending Analysis
