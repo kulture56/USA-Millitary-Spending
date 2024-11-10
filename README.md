@@ -1,6 +1,7 @@
 # USA-Millitary-Spending  
 **Tableau Visualizations** ![Uploading USA Military.jpeg…]()
 
+
 U.S. Military Spending Analysis
 
 **This Tableau project, titled U.S. Military Spending Analysis, provides a comprehensive view of historical military spending trends in the United States over time. By examining data on defense budgets, GDP, and population, this project offers insights into the financial and social context of military expenditures.**
