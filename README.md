@@ -1,5 +1,6 @@
 # USA-Millitary-Spending  
-**Tableau Visualizations** ![USA Military](https://github.com/user-attachments/assets/a9f83456-9595-42ed-a9d7-072cd3fbb75d)
+**Tableau Visualizations** ![Time Series Analysis](https://github.com/user-attachments/assets/98499ef0-d4ce-4f93-9df1-b992fe26bfff)
+
 
 
 
